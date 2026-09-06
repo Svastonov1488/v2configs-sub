@@ -2,20 +2,59 @@
 #profile-title: @V2keykonfig-sub
 #profile-update-interval: 1
 #support-url: t.me/KFCElmir
-#announce: Не работает? Обновите подписку // Автор @KFCElmir // обновлено  1 сентября 23:42 MSK
-vless://c1ea3c41-3bc7-4a60-b3a3-2e46ec8b88b8@by.i-love-russia.online:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=by.i-love-russia.online&pbk=ThYiOQmlRYp3vrb_MAshWmjSxwOOYcstJusgIiiopHY&sid=1b4e086bf0a1b1f4&fp=qq#🇫🇮 Финляндия (Ai, YouTube, Gemini)
-vless://c1ea3c41-3bc7-4a60-b3a3-2e46ec8b88b8@ee.i-love-russia.online:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ee.i-love-russia.online&pbk=ThYiOQmlRYp3vrb_MAshWmjSxwOOYcstJusgIiiopHY&sid=1b4e086bf0a1b1f4&fp=firefox#🇪🇪 Эстония 1
-vless://c1ea3c41-3bc7-4a60-b3a3-2e46ec8b88b8@nl.i-love-russia.online:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=nl.i-love-russia.online&pbk=ThYiOQmlRYp3vrb_MAshWmjSxwOOYcstJusgIiiopHY&sid=1b4e086bf0a1b1f4&fp=firefox#🇪🇪 Эстония 2
-vless://c1ea3c41-3bc7-4a60-b3a3-2e46ec8b88b8@tr.i-love-russia.online:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=tr.i-love-russia.online&pbk=ThYiOQmlRYp3vrb_MAshWmjSxwOOYcstJusgIiiopHY&sid=1b4e086bf0a1b1f4&fp=firefox#🇪🇪 Эстония 3
-vless://c1ea3c41-3bc7-4a60-b3a3-2e46ec8b88b8@pl.i-love-russia.online:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=pl.i-love-russia.online&pbk=ThYiOQmlRYp3vrb_MAshWmjSxwOOYcstJusgIiiopHY&sid=1b4e086bf0a1b1f4&fp=firefox#🇵🇱 Польша 1
-vless://c1ea3c41-3bc7-4a60-b3a3-2e46ec8b88b8@pl2.i-love-russia.online:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=pl2.i-love-russia.online&pbk=ThYiOQmlRYp3vrb_MAshWmjSxwOOYcstJusgIiiopHY&sid=1b4e086bf0a1b1f4&fp=firefox#🇵🇱 Польша 2
-vless://c1ea3c41-3bc7-4a60-b3a3-2e46ec8b88b8@de2.i-love-russia.online:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=de2.i-love-russia.online&pbk=ThYiOQmlRYp3vrb_MAshWmjSxwOOYcstJusgIiiopHY&sid=1b4e086bf0a1b1f4&fp=firefox#🇩🇪 Германия 1
-vless://c1ea3c41-3bc7-4a60-b3a3-2e46ec8b88b8@in.i-love-russia.online:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=in.i-love-russia.online&pbk=ThYiOQmlRYp3vrb_MAshWmjSxwOOYcstJusgIiiopHY&sid=1b4e086bf0a1b1f4&fp=firefox#🇩🇪 Германия 2
-vless://c1ea3c41-3bc7-4a60-b3a3-2e46ec8b88b8@fi.i-love-russia.online:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=fi.i-love-russia.online&pbk=ThYiOQmlRYp3vrb_MAshWmjSxwOOYcstJusgIiiopHY&sid=1b4e086bf0a1b1f4&fp=firefox#🇫🇮 Финляндия 1
-vless://c1ea3c41-3bc7-4a60-b3a3-2e46ec8b88b8@fi2.i-love-russia.online:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=fi2.i-love-russia.online&pbk=ThYiOQmlRYp3vrb_MAshWmjSxwOOYcstJusgIiiopHY&sid=1b4e086bf0a1b1f4&fp=firefox#🇫🇮 Финляндия 2
-vless://c1ea3c41-3bc7-4a60-b3a3-2e46ec8b88b8@de.i-love-russia.online:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=de.i-love-russia.online&pbk=ThYiOQmlRYp3vrb_MAshWmjSxwOOYcstJusgIiiopHY&sid=1b4e086bf0a1b1f4&fp=firefox#🇫🇮 Финляндия 3
-vless://c1ea3c41-3bc7-4a60-b3a3-2e46ec8b88b8@lt.i-love-russia.online:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=lt.i-love-russia.online&pbk=ThYiOQmlRYp3vrb_MAshWmjSxwOOYcstJusgIiiopHY&sid=1b4e086bf0a1b1f4&fp=firefox#🇱🇹 Литва
-vless://c1ea3c41-3bc7-4a60-b3a3-2e46ec8b88b8@lv.i-love-russia.online:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=lv.i-love-russia.online&pbk=ThYiOQmlRYp3vrb_MAshWmjSxwOOYcstJusgIiiopHY&sid=1b4e086bf0a1b1f4&fp=firefox#🇱🇻 Латвия
-vless://c1ea3c41-3bc7-4a60-b3a3-2e46ec8b88b8@ca.i-love-russia.online:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ca.i-love-russia.online&pbk=ThYiOQmlRYp3vrb_MAshWmjSxwOOYcstJusgIiiopHY&sid=1b4e086bf0a1b1f4&fp=firefox#🇨🇦 Канада
-vless://c1ea3c41-3bc7-4a60-b3a3-2e46ec8b88b8@friendlynode.site:443?encryption=none&type=ws&security=tls&sni=friendlynode.site&path=/stream/751394/socket#🇫🇮 Белые списки 1
-vless://c1ea3c41-3bc7-4a60-b3a3-2e46ec8b88b8@friendlynode.ru:443?encryption=none&type=ws&security=tls&sni=friendlynode.ru&path=/stream/174196d0/socket#🇩🇪 Белые списки 2
+#announce: Не работает? Обновите подписку // Автор @KFCElmir // обновлено  6 сентября 16:09 MSK
+vless://19b701b6-4800-4a79-b87a-330cd7ea9e84@exit-de-5.dost-self.co.uk:443?encryption=none&type=tcp&security=reality&sni=exit-de-5.dost-self.co.uk&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&fp=qq#🇩🇪 DE | Германия
+vless://19b701b6-4800-4a79-b87a-330cd7ea9e84@kinoveh3.kazkino.net:443?encryption=none&type=tcp&security=tls&sni=kinoveh3.kazkino.net#🇳🇱 NL | Нидерланды
+vless://19b701b6-4800-4a79-b87a-330cd7ea9e84@nlcdn-6.aiai-rkp.net:443?encryption=none&type=ws&security=tls&sni=nlcdn-6.aiai-rkp.net&path=/media/ws/#🇳🇱 NL | Амстердам
+vless://19b701b6-4800-4a79-b87a-330cd7ea9e84@decdn-24.aiai-rkp.net:443?encryption=none&type=tcp&security=tls&sni=decdn-24.aiai-rkp.net#🇩🇪 DE | Берлин
+vless://19b701b6-4800-4a79-b87a-330cd7ea9e84@exit-de-2.dost-self.co.uk:443?encryption=none&type=ws&security=tls&sni=exit-de-2.dost-self.co.uk&path=/ws/#🇩🇪 DE | Франкфурт
+vless://19b701b6-4800-4a79-b87a-330cd7ea9e84@exit-fi-2.dost-self.co.uk:443?encryption=none&type=ws&security=tls&sni=exit-fi-2.dost-self.co.uk&path=/ws/#🇫🇮 FI | Хельсинки
+vless://19b701b6-4800-4a79-b87a-330cd7ea9e84@exit-am-1.dost-self.co.uk:443?encryption=none&type=tcp&security=reality&sni=exit-am-1.dost-self.co.uk&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&fp=qq#🇦🇲 AM | Ереван
+vless://19b701b6-4800-4a79-b87a-330cd7ea9e84@exit-jp-1.dost-self.co.uk:443?encryption=none&type=tcp&security=reality&sni=exit-jp-1.dost-self.co.uk&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&fp=qq#🇯🇵 JP | Токио
+vless://19b701b6-4800-4a79-b87a-330cd7ea9e84@exit-fi-4.dost-self.co.uk:443?encryption=none&type=ws&security=tls&sni=exit-fi-4.dost-self.co.uk&path=/ws/#🇫🇮 FI | Эспоо
+vless://19b701b6-4800-4a79-b87a-330cd7ea9e84@exit-se-4.dost-self.co.uk:443?encryption=none&type=ws&security=tls&sni=exit-se-4.dost-self.co.uk&path=/ws/#🇸🇪 SE | Стокгольм
+vless://19b701b6-4800-4a79-b87a-330cd7ea9e84@exit-nl-2.dost-self.co.uk:443?encryption=none&type=ws&security=tls&sni=exit-nl-2.dost-self.co.uk&path=/ws/#🇳🇱 NL | Роттердам
+vless://19b701b6-4800-4a79-b87a-330cd7ea9e84@cardpayment.cleanfoodshop.org:443?encryption=none&type=ws&security=tls&sni=cardpayment.cleanfoodshop.org&path=/media/ws/#🇺🇸 US | Нью-Йорк
+vless://19b701b6-4800-4a79-b87a-330cd7ea9e84@exit-de-3.dost-self.co.uk:443?encryption=none&type=ws&security=tls&sni=exit-de-3.dost-self.co.uk&path=/ws/#🇩🇪 DE | Мюнхен
+vless://19b701b6-4800-4a79-b87a-330cd7ea9e84@exit-nl-1.dost-self.co.uk:443?encryption=none&type=ws&security=tls&sni=exit-nl-1.dost-self.co.uk&path=/ws/#🇳🇱 NL | Гаага
+vless://19b701b6-4800-4a79-b87a-330cd7ea9e84@vi.lucheeebezlimitnoekino.stream:443?encryption=none&type=ws&security=tls&sni=vi.lucheeebezlimitnoekino.stream&path=/media/ws/#🇻🇮 VI | США (Вирджиния)
+vless://19b701b6-4800-4a79-b87a-330cd7ea9e84@exit-jp-1.dost-self.co.uk:443?encryption=none&type=ws&security=tls&sni=exit-jp-1.dost-self.co.uk&path=/ws/#🇯🇵 JP | Осака
+vless://19b701b6-4800-4a79-b87a-330cd7ea9e84@cart.cleanfoodshop.org:443?encryption=none&type=ws&security=tls&sni=cart.cleanfoodshop.org&path=/media/ws/#🇬🇧 GB | Лондон
+vless://19b701b6-4800-4a79-b87a-330cd7ea9e84@admin.cleanfoodshop.org:443?encryption=none&type=ws&security=tls&sni=admin.cleanfoodshop.org&path=/media/ws/#🇨🇦 CA | Торонто
+vless://19b701b6-4800-4a79-b87a-330cd7ea9e84@exit-se-5.dost-self.co.uk:443?encryption=none&type=tcp&security=reality&sni=exit-se-5.dost-self.co.uk&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&fp=qq#🇸🇪 SE | Гётеборг
+vless://19b701b6-4800-4a79-b87a-330cd7ea9e84@decdn-724.aiai-rkp.net:443?encryption=none&type=ws&security=tls&sni=decdn-724.aiai-rkp.net&path=/media/ws/#🇩🇪 DE | Гамбург
+vless://19b701b6-4800-4a79-b87a-330cd7ea9e84@exit-de-3.dost-self.co.uk:443?encryption=none&type=tcp&security=reality&sni=exit-de-3.dost-self.co.uk&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&fp=qq#🇩🇪 DE | Кёльн
+vless://19b701b6-4800-4a79-b87a-330cd7ea9e84@exit-pl-1.dost-self.co.uk:443?encryption=none&type=ws&security=tls&sni=exit-pl-1.dost-self.co.uk&path=/ws/#🇵🇱 PL | Варшава
+vless://19b701b6-4800-4a79-b87a-330cd7ea9e84@exit-de-1.dost-self.co.uk:443?encryption=none&type=ws&security=tls&sni=exit-de-1.dost-self.co.uk&path=/ws/#🇩🇪 DE | Дюссельдорф
+vless://19b701b6-4800-4a79-b87a-330cd7ea9e84@93.123.101.182:443?encryption=none&type=tcp&security=reality&sni=exit-de-1.dost-self.co.uk&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&fp=qq#🇩🇪 DE | Нюрнберг
+vless://19b701b6-4800-4a79-b87a-330cd7ea9e84@exit-de-4.dost-self.co.uk:443?encryption=none&type=ws&security=tls&sni=exit-de-4.dost-self.co.uk&path=/ws/#🇩🇪 DE | Штутгарт
+vless://19b701b6-4800-4a79-b87a-330cd7ea9e84@exit-fi-4.dost-self.co.uk:443?encryption=none&type=tcp&security=reality&sni=exit-fi-4.dost-self.co.uk&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&fp=qq#🇫🇮 FI | Тампере
+vless://19b701b6-4800-4a79-b87a-330cd7ea9e84@exit-se-5.dost-self.co.uk:443?encryption=none&type=ws&security=tls&sni=exit-se-5.dost-self.co.uk&path=/ws/#🇸🇪 SE | Мальмё
+vless://19b701b6-4800-4a79-b87a-330cd7ea9e84@exit-de-6.dost-self.co.uk:443?encryption=none&type=tcp&security=reality&sni=exit-de-6.dost-self.co.uk&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&fp=qq#🇩🇪 DE | Лейпциг
+vless://19b701b6-4800-4a79-b87a-330cd7ea9e84@admin.lucheeebezlimitnoekino.stream:443?encryption=none&type=ws&security=tls&sni=admin.lucheeebezlimitnoekino.stream&path=/media/ws/#🇫🇷 FR | Париж
+vless://19b701b6-4800-4a79-b87a-330cd7ea9e84@exit-se-3.dost-self.co.uk:443?encryption=none&type=tcp&security=reality&sni=exit-se-3.dost-self.co.uk&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&fp=qq#🇸🇪 SE | Уппсала
+vless://19b701b6-4800-4a79-b87a-330cd7ea9e84@exit-se-1.dost-self.co.uk:443?encryption=none&type=tcp&security=reality&sni=exit-se-1.dost-self.co.uk&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&fp=qq#🇸🇪 SE | Линчёпинг
+vless://19b701b6-4800-4a79-b87a-330cd7ea9e84@exit-de-5.dost-self.co.uk:443?encryption=none&type=ws&security=tls&sni=exit-de-5.dost-self.co.uk&path=/ws/#🇩🇪 DE | Бремен
+vless://19b701b6-4800-4a79-b87a-330cd7ea9e84@kinoveh4.kazkino.net:443?encryption=none&type=tcp&security=tls&sni=kinoveh4.kazkino.net#🇰🇿 KZ | Алматы
+vless://19b701b6-4800-4a79-b87a-330cd7ea9e84@exit-de-4.dost-self.co.uk:443?encryption=none&type=tcp&security=reality&sni=exit-de-4.dost-self.co.uk&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&fp=qq#🇩🇪 DE | Дрезден
+vless://19b701b6-4800-4a79-b87a-330cd7ea9e84@ficdn4.aiai-rkp.net:443?encryption=none&type=ws&security=tls&sni=ficdn4.aiai-rkp.net&path=/media/ws/#🇫🇮 FI | Турку
+vless://19b701b6-4800-4a79-b87a-330cd7ea9e84@exit-pl-2.dost-self.co.uk:443?encryption=none&type=ws&security=tls&sni=exit-pl-2.dost-self.co.uk&path=/ws/#🇵🇱 PL | Краков
+vless://19b701b6-4800-4a79-b87a-330cd7ea9e84@trcdn-5.aiai-rkp.net:443?encryption=none&type=tcp&security=tls&sni=trcdn-5.aiai-rkp.net#🇹🇷 TR | Стамбул
+vless://19b701b6-4800-4a79-b87a-330cd7ea9e84@exit-de-2.dost-self.co.uk:443?encryption=none&type=tcp&security=reality&sni=exit-de-2.dost-self.co.uk&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&fp=qq#🇩🇪 DE | Ганновер
+vless://19b701b6-4800-4a79-b87a-330cd7ea9e84@exit-am-1.dost-self.co.uk:443?encryption=none&type=ws&security=tls&sni=exit-am-1.dost-self.co.uk&path=/ws/#🇦🇲 AM | Гюмри
+vless://19b701b6-4800-4a79-b87a-330cd7ea9e84@exit-se-1.dost-self.co.uk:443?encryption=none&type=ws&security=tls&sni=exit-se-1.dost-self.co.uk&path=/ws/#🇸🇪 SE | Эребру
+vless://19b701b6-4800-4a79-b87a-330cd7ea9e84@exit-nl-2.dost-self.co.uk:443?encryption=none&type=tcp&security=reality&sni=exit-nl-2.dost-self.co.uk&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&fp=qq#🇳🇱 NL | Утрехт
+vless://19b701b6-4800-4a79-b87a-330cd7ea9e84@exit-pl-1.dost-self.co.uk:443?encryption=none&type=tcp&security=reality&sni=exit-pl-1.dost-self.co.uk&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&fp=qq#🇵🇱 PL | Гданьск
+vless://19b701b6-4800-4a79-b87a-330cd7ea9e84@exit-se-4.dost-self.co.uk:443?encryption=none&type=tcp&security=reality&sni=exit-se-4.dost-self.co.uk&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&fp=qq#🇸🇪 SE | Вестерос
+vless://19b701b6-4800-4a79-b87a-330cd7ea9e84@ficdn2.nem-osh-rkp.net:443?encryption=none&type=ws&security=tls&sni=ficdn2.nem-osh-rkp.net&path=/media/ws/#🇫🇮 FI | Оулу
+vless://19b701b6-4800-4a79-b87a-330cd7ea9e84@uscdnser.aiai-rkp.net:443?encryption=none&type=ws&security=tls&sni=uscdnser.aiai-rkp.net&path=/media/ws/#🇺🇸 US | Лос-Анджелес
+vless://19b701b6-4800-4a79-b87a-330cd7ea9e84@ficdn1.nem-osh-rkp.net:443?encryption=none&type=ws&security=tls&sni=ficdn1.nem-osh-rkp.net&path=/media/ws/#🇫🇮 FI | Ювяскюля
+vless://19b701b6-4800-4a79-b87a-330cd7ea9e84@exit-pl-2.dost-self.co.uk:443?encryption=none&type=tcp&security=reality&sni=exit-pl-2.dost-self.co.uk&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&fp=qq#🇵🇱 PL | Познань
+vless://19b701b6-4800-4a79-b87a-330cd7ea9e84@exit-fi-5.dost-self.co.uk:443?encryption=none&type=ws&security=tls&sni=exit-fi-5.dost-self.co.uk&path=/ws/#🇫🇮 FI | Лахти
+vless://19b701b6-4800-4a79-b87a-330cd7ea9e84@chi.lucheeebezlimitnoekino.stream:443?encryption=none&type=ws&security=tls&sni=chi.lucheeebezlimitnoekino.stream&path=/media/ws/#🇨🇱 CL | Сантьяго
+vless://19b701b6-4800-4a79-b87a-330cd7ea9e84@exit-se-3.dost-self.co.uk:443?encryption=none&type=ws&security=tls&sni=exit-se-3.dost-self.co.uk&path=/ws/#🇸🇪 SE | Норрчёпинг
+vless://19b701b6-4800-4a79-b87a-330cd7ea9e84@exit-de-6.dost-self.co.uk:443?encryption=none&type=ws&security=tls&sni=exit-de-6.dost-self.co.uk&path=/ws/#🇩🇪 DE | Бохум
+vless://19b701b6-4800-4a79-b87a-330cd7ea9e84@exit-fi-5.dost-self.co.uk:443?encryption=none&type=tcp&security=reality&sni=exit-fi-5.dost-self.co.uk&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&fp=qq#🇫🇮 FI | Порвоо
+vless://19b701b6-4800-4a79-b87a-330cd7ea9e84@exit-nl-1.dost-self.co.uk:443?encryption=none&type=tcp&security=reality&sni=exit-nl-1.dost-self.co.uk&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&fp=qq#🇳🇱 NL | Эйндховен
+vless://19b701b6-4800-4a79-b87a-330cd7ea9e84@exit-fi-2.dost-self.co.uk:443?encryption=none&type=tcp&security=reality&sni=exit-fi-2.dost-self.co.uk&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&fp=qq#🇫🇮 FI | Рованиеми
+vless://19b701b6-4800-4a79-b87a-330cd7ea9e84@cdddn.lucheeebezlimitnoekino.stream:443?encryption=none&type=ws&security=tls&sni=cdddn.lucheeebezlimitnoekino.stream&path=/media/ws/#🇨🇩 CD | Конго (Киншаса)
