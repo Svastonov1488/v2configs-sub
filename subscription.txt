@@ -3,20 +3,4 @@
 #profile-update-interval: 1
 #support-url: t.me/KFCElmir
 #announce: Не работает? Обновите подписку // Автор @KFCElmir // обновлено  6 сентября 16:09 MSK
-vless://697995a9-7591-46ca-ae72-d1adb7ec019f@secdn-51.ktuda-skp.net:443?encryption=none&type=tcp&security=tls&sni=secdn-51.ktuda-skp.net#🇸🇪 Швеция
-vless://697995a9-7591-46ca-ae72-d1adb7ec019f@secdn-101.ktuda-skp.net:443?encryption=none&type=tcp&security=tls&sni=secdn-101.ktuda-skp.net#🇸🇪 Швеция
-vless://697995a9-7591-46ca-ae72-d1adb7ec019f@usacdn-4.ktuda-skp.net:443?encryption=none&type=tcp&security=tls&sni=usacdn-4.ktuda-skp.net#🇺🇸 США
-vless://697995a9-7591-46ca-ae72-d1adb7ec019f@144.31.129.165:26819?encryption=none&type=grpc&security=reality&sni=www.nvidia.com&pbk=G5ssqwHdO3WY07IIqqJ3eszJbUm2NfshymcbQU5CEw4&sid=1a6b1f9d0e&fp=firefox&serviceName=api/v1/sync/#🇳🇱 Нидерланды
-vless://697995a9-7591-46ca-ae72-d1adb7ec019f@2.27.27.238:26819?encryption=none&type=grpc&security=reality&sni=www.nvidia.com&pbk=G5ssqwHdO3WY07IIqqJ3eszJbUm2NfshymcbQU5CEw4&sid=1a6b1f9d0e&fp=firefox&serviceName=api/v1/sync/#🇫🇮 Финляндия
-vless://697995a9-7591-46ca-ae72-d1adb7ec019f@2.27.27.239:26819?encryption=none&type=grpc&security=reality&sni=www.nvidia.com&pbk=G5ssqwHdO3WY07IIqqJ3eszJbUm2NfshymcbQU5CEw4&sid=1a6b1f9d0e&fp=firefox&serviceName=api/v1/sync/#🇫🇮 Финляндия
-vless://697995a9-7591-46ca-ae72-d1adb7ec019f@2.27.26.234:26819?encryption=none&type=grpc&security=reality&sni=www.nvidia.com&pbk=G5ssqwHdO3WY07IIqqJ3eszJbUm2NfshymcbQU5CEw4&sid=1a6b1f9d0e&fp=firefox&serviceName=api/v1/sync/#🇫🇮 Финляндия
-vless://697995a9-7591-46ca-ae72-d1adb7ec019f@144.31.2.103:26819?encryption=none&type=grpc&security=reality&sni=www.nvidia.com&pbk=G5ssqwHdO3WY07IIqqJ3eszJbUm2NfshymcbQU5CEw4&sid=1a6b1f9d0e&fp=randomized&serviceName=api/v1/sync/#🇳🇱 Нидерланды
-vless://697995a9-7591-46ca-ae72-d1adb7ec019f@144.31.2.109:26819?encryption=none&type=grpc&security=reality&sni=www.nvidia.com&pbk=G5ssqwHdO3WY07IIqqJ3eszJbUm2NfshymcbQU5CEw4&sid=1a6b1f9d0e&fp=firefox&serviceName=api/v1/sync/#🇳🇱 Нидерланды
-vless://697995a9-7591-46ca-ae72-d1adb7ec019f@144.31.2.196:26819?encryption=none&type=grpc&security=reality&sni=www.nvidia.com&pbk=G5ssqwHdO3WY07IIqqJ3eszJbUm2NfshymcbQU5CEw4&sid=1a6b1f9d0e&fp=firefox&serviceName=api/v1/sync/#🇳🇱 Нидерланды
-vless://697995a9-7591-46ca-ae72-d1adb7ec019f@144.31.131.96:26819?encryption=none&type=grpc&security=reality&sni=www.nvidia.com&pbk=G5ssqwHdO3WY07IIqqJ3eszJbUm2NfshymcbQU5CEw4&sid=1a6b1f9d0e&fp=firefox&serviceName=api/v1/sync/#🇳🇱 Нидерланды
-vless://697995a9-7591-46ca-ae72-d1adb7ec019f@2.27.26.42:26819?encryption=none&type=grpc&security=reality&sni=www.nvidia.com&pbk=G5ssqwHdO3WY07IIqqJ3eszJbUm2NfshymcbQU5CEw4&sid=1a6b1f9d0e&fp=firefox&serviceName=api/v1/sync/#🇫🇮 Финляндия
-vless://697995a9-7591-46ca-ae72-d1adb7ec019f@kinofi10.melodramaonline.net:443?encryption=none&type=ws&security=tls&sni=kinofi10.melodramaonline.net&path=/media/ws/#🇫🇮 Финляндия
-vless://697995a9-7591-46ca-ae72-d1adb7ec019f@kinonl4.melodramaonline.net:443?encryption=none&type=ws&security=tls&sni=kinonl4.melodramaonline.net&path=/media/ws/#🇳🇱 Нидерланды
-vless://697995a9-7591-46ca-ae72-d1adb7ec019f@nlcdn6.melodramaonline.net:443?encryption=none&type=ws&security=tls&sni=nlcdn6.melodramaonline.net&path=/media/ws/#🇳🇱 Нидерланды
-vless://697995a9-7591-46ca-ae72-d1adb7ec019f@ep.lucheeebezlimitnoekino.stream:443?encryption=none&type=ws&security=tls&sni=ep.lucheeebezlimitnoekino.stream&path=/media/ws/#🇪🇺 Европа
-vless://697995a9-7591-46ca-ae72-d1adb7ec019f@tags.cleanfoodshop.org:443?encryption=none&type=ws&security=tls&sni=tags.cleanfoodshop.org&path=/media/ws/#🇪🇺 Европа
+vless://a084ff63-ae80-4c5f-9b5c-7208564dcd82@94.156.250.11:443?encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=LKScF0-_oNIfSD010cp4lfS2MrJwMAc49vJatwb0IiU&sid=ae6577054b731814&spx=%2F&type=xhttp&mode=stream-one&host=vk.com&path=%2Fapi%2Fv1%2F1fc58872#%231%20%F0%9F%87%AC%F0%9F%87%A7%20%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F
