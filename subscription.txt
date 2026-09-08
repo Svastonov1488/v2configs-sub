@@ -3,6 +3,13 @@
 #profile-update-interval: 1
 #support-url: t.me/KFCElmir
 #announce: Не работает? Обновите подписку // Автор @KFCElmir // обновлено  6 сентября 16:09 MSK
+vless://c09cfd91-b234-4998-9bed-a0211b7f5c3c@150.241.101.227:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ee.yservice.help&pbk=-qLezG1nUEtvOJi-Ra7WRYv-aHkv3PSefEuXpWV2G04&sid=abcd1234&fp=firefox#🇪🇪 Эстония
+vless://c09cfd91-b234-4998-9bed-a0211b7f5c3c@31.76.55.181:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ee2.yservice.help&pbk=-qLezG1nUEtvOJi-Ra7WRYv-aHkv3PSefEuXpWV2G04&sid=abcd1234&fp=firefox#🇪🇪 Эстония 2
+vless://c09cfd91-b234-4998-9bed-a0211b7f5c3c@144.31.243.220:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=lt.yservice.help&pbk=-qLezG1nUEtvOJi-Ra7WRYv-aHkv3PSefEuXpWV2G04&sid=abcd1234&fp=firefox#🇱🇹 Литва
+vless://c09cfd91-b234-4998-9bed-a0211b7f5c3c@31.76.62.226:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=lv2.yservice.help&pbk=-qLezG1nUEtvOJi-Ra7WRYv-aHkv3PSefEuXpWV2G04&sid=abcd1234&fp=firefox#🇱🇻 Латвия
+vless://c09cfd91-b234-4998-9bed-a0211b7f5c3c@31.77.199.182:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=fi2.yservice.help&pbk=-qLezG1nUEtvOJi-Ra7WRYv-aHkv3PSefEuXpWV2G04&sid=abcd1234&fp=firefox#🇫🇮 Финляндия
+vless://c09cfd91-b234-4998-9bed-a0211b7f5c3c@2.26.101.181:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=se.yservice.help&pbk=-qLezG1nUEtvOJi-Ra7WRYv-aHkv3PSefEuXpWV2G04&sid=abcd1234&fp=firefox#🇸🇪 Швеция
+vless://c09cfd91-b234-4998-9bed-a0211b7f5c3c@31.77.149.204:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=nl.yservice.help&pbk=-qLezG1nUEtvOJi-Ra7WRYv-aHkv3PSefEuXpWV2G04&sid=abcd1234&fp=firefox#🇳🇱 Нидерланды
 ss://aes-256-gcm:3eOFeNssde7PYYMv@84.247.155.196:80#%F0%9F%8C%8D%20%D0%90%D0%B2%D1%82%D0%BE%20%D0%9F%D1%80%D0%BE%D1%87%D0%B8%D0%B5
 vless://1f61fc64-3113-4a23-9670-a33208026dbc@31.57.109.47:443?encryption=none&type=xhttp&security=reality&sni=5post-gate.x5.ru&pbk=akcAXaW7GNwXT6bTrtD6oZIY9rdEzW4TfZvYqDRzsTc&sid=a8f3c1d7e9b4c2f6&fp=qq&path=/xhttp-proxy&mode=auto#🇫🇷 Франция 2
 vless://1f61fc64-3113-4a23-9670-a33208026dbc@191.44.33.69:443?encryption=none&type=xhttp&security=reality&sni=5post-gate.x5.ru&pbk=akcAXaW7GNwXT6bTrtD6oZIY9rdEzW4TfZvYqDRzsTc&sid=a8f3c1d7e9b4c2f6&fp=qq&path=/xhttp-proxy&mode=auto#🇩🇪 Германия 2
