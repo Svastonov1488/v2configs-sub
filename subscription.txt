@@ -2,7 +2,9 @@
 #profile-title: @V2keykonfig-sub
 #profile-update-interval: 1
 #support-url: t.me/KFCElmir
-#announce: Не работает? Обновите подписку // Автор @KFCElmir // обновлено  9 сентября 11:47 MSK
+#announce: Не работает? Обновите подписку // Автор @KFCElmir // обновлено  12 сентября 22:04 MSK
+
+trojan://0123456789abcdef0123456789abcdef@example.com:443?security=tls&sni=example.com&type=tcp&headerType=none#🇧🇩 Musor Drop
 vless://5b385bec-7f4f-4466-a6b8-d924c568fe51@api.ge1.hubfit.org:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=api.ge1.hubfit.org&pbk=xgjh4INLejIsR8DCnlOOKV9nK6fKIg1TtB5hhYfahhs&sid=81ea&fp=qq#🇩🇪 Германия
 vless://5b385bec-7f4f-4466-a6b8-d924c568fe51@api.ge2.hubfit.org:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=api.ge2.hubfit.org&pbk=xgjh4INLejIsR8DCnlOOKV9nK6fKIg1TtB5hhYfahhs&sid=81ea&fp=qq#🇩🇪 Германия
 vless://5b385bec-7f4f-4466-a6b8-d924c568fe51@api.ge3.hubfit.org:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=api.ge3.hubfit.org&pbk=xgjh4INLejIsR8DCnlOOKV9nK6fKIg1TtB5hhYfahhs&sid=81ea&fp=qq#🇩🇪 Германия
