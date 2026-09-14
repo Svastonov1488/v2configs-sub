@@ -5,12 +5,45 @@
 #announce: Не работает? Обновите подписку // Автор @KFCElmir // обновлено  12 сентября 22:04 MSK
 
 trojan://0123456789abcdef0123456789abcdef@example.com:443?security=tls&sni=example.com&type=tcp&headerType=none#🇧🇩 Musor Drop
-vless://f2381f29-c724-4491-95a3-a17bd6eea47f@144.31.238.251:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=de.willo.help&pbk=MldGYzZegwydL76HI_beMlXgD-4ZyCZjIX0sBVPjphY&sid=abcd1234&fp=firefox#⚡ Самый быстрый (АВТО)
-vless://f2381f29-c724-4491-95a3-a17bd6eea47f@46.28.69.53:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=de2.willo.help&pbk=MldGYzZegwydL76HI_beMlXgD-4ZyCZjIX0sBVPjphY&sid=abcd1234&fp=firefox#⚡ Самый быстрый (АВТО)
-vless://f2381f29-c724-4491-95a3-a17bd6eea47f@31.76.55.14:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ee.willo.help&pbk=MldGYzZegwydL76HI_beMlXgD-4ZyCZjIX0sBVPjphY&sid=abcd1234&fp=firefox#⚡ Самый быстрый (АВТО)
-vless://f2381f29-c724-4491-95a3-a17bd6eea47f@144.31.243.247:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=lt.willo.help&pbk=MldGYzZegwydL76HI_beMlXgD-4ZyCZjIX0sBVPjphY&sid=abcd1234&fp=firefox#⚡ Самый быстрый (АВТО)
-vless://f2381f29-c724-4491-95a3-a17bd6eea47f@2.27.42.33:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=fi.willo.help&pbk=MldGYzZegwydL76HI_beMlXgD-4ZyCZjIX0sBVPjphY&sid=abcd1234&fp=firefox#⚡ Самый быстрый (АВТО)
-vless://f2381f29-c724-4491-95a3-a17bd6eea47f@144.31.229.83:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=nl.willo.help&pbk=MldGYzZegwydL76HI_beMlXgD-4ZyCZjIX0sBVPjphY&sid=abcd1234&fp=firefox#⚡ Самый быстрый (АВТО)
-vless://f2381f29-c724-4491-95a3-a17bd6eea47f@2.27.105.49:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=bg.willo.help&pbk=MldGYzZegwydL76HI_beMlXgD-4ZyCZjIX0sBVPjphY&sid=abcd1234&fp=firefox#⚡ Самый быстрый (АВТО)
-vless://f2381f29-c724-4491-95a3-a17bd6eea47f@188.255.163.64:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=pl.willo.help&pbk=MldGYzZegwydL76HI_beMlXgD-4ZyCZjIX0sBVPjphY&sid=abcd1234&fp=firefox#⚡ Самый быстрый (АВТО)
-vless://f2381f29-c724-4491-95a3-a17bd6eea47f@31.76.81.113:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=se.willo.help&pbk=MldGYzZegwydL76HI_beMlXgD-4ZyCZjIX0sBVPjphY&sid=abcd1234&fp=firefox#⚡ Самый быстрый (АВТО)
+vless://16dbb3d3-b04e-4985-8657-70ac1c6c6de1@fr-1.bnc-gt.co.uk:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=a.fr-1.bnc-gt.co.uk&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&fp=qq#🇫🇷 Франция
+vless://16dbb3d3-b04e-4985-8657-70ac1c6c6de1@fr-1.bnc-gt.co.uk:443?encryption=none&type=ws&security=tls&sni=a.fr-1.bnc-gt.co.uk&path=/ws/#🇫🇷 Франция
+vless://16dbb3d3-b04e-4985-8657-70ac1c6c6de1@fr-1.bnc-gt.co.uk:443?encryption=none&type=grpc&security=tls&sni=a.fr-1.bnc-gt.co.uk&serviceName=grpc#🇫🇷 Франция
+vless://16dbb3d3-b04e-4985-8657-70ac1c6c6de1@fr-2.bnc-gt.co.uk:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=b.fr-2.bnc-gt.co.uk&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&fp=qq#🇫🇷 Франция
+vless://16dbb3d3-b04e-4985-8657-70ac1c6c6de1@fr-2.bnc-gt.co.uk:443?encryption=none&type=ws&security=tls&sni=b.fr-2.bnc-gt.co.uk&path=/ws/#🇫🇷 Франция
+vless://16dbb3d3-b04e-4985-8657-70ac1c6c6de1@fr-2.bnc-gt.co.uk:443?encryption=none&type=grpc&security=tls&sni=b.fr-2.bnc-gt.co.uk&serviceName=grpc#🇫🇷 Франция
+vless://16dbb3d3-b04e-4985-8657-70ac1c6c6de1@de-1.bnc-gt.co.uk:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=b.de-1.bnc-gt.co.uk&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&fp=qq#🇩🇪 Германия
+vless://16dbb3d3-b04e-4985-8657-70ac1c6c6de1@de-1.bnc-gt.co.uk:443?encryption=none&type=ws&security=tls&sni=b.de-1.bnc-gt.co.uk&path=/ws/#🇩🇪 Германия
+vless://16dbb3d3-b04e-4985-8657-70ac1c6c6de1@de-1.bnc-gt.co.uk:443?encryption=none&type=grpc&security=tls&sni=b.de-1.bnc-gt.co.uk&serviceName=grpc#🇩🇪 Германия
+vless://16dbb3d3-b04e-4985-8657-70ac1c6c6de1@de-3.bnc-gt.co.uk:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=de-3.bnc-gt.co.uk&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&fp=firefox#🇩🇪 Германия
+vless://16dbb3d3-b04e-4985-8657-70ac1c6c6de1@de-3.bnc-gt.co.uk:443?encryption=none&type=ws&security=tls&sni=de-3.bnc-gt.co.uk&path=/ws/#🇩🇪 Германия
+vless://16dbb3d3-b04e-4985-8657-70ac1c6c6de1@de-3.bnc-gt.co.uk:443?encryption=none&type=grpc&security=tls&sni=a.de-3.bnc-gt.co.uk&serviceName=grpc#🇩🇪 Германия
+vless://16dbb3d3-b04e-4985-8657-70ac1c6c6de1@de-4.bnc-gt.co.uk:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=de-4.bnc-gt.co.uk&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&fp=firefox#🇩🇪 Германия
+vless://16dbb3d3-b04e-4985-8657-70ac1c6c6de1@de-4.bnc-gt.co.uk:443?encryption=none&type=ws&security=tls&sni=de-4.bnc-gt.co.uk&path=/ws/#🇩🇪 Германия
+vless://16dbb3d3-b04e-4985-8657-70ac1c6c6de1@de-4.bnc-gt.co.uk:443?encryption=none&type=grpc&security=tls&sni=de-4.bnc-gt.co.uk&serviceName=grpc#🇩🇪 Германия
+vless://16dbb3d3-b04e-4985-8657-70ac1c6c6de1@nl-1.bnc-gt.co.uk:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=a.nl-1.bnc-gt.co.uk&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&fp=firefox#🇳🇱 Нидерланды
+vless://16dbb3d3-b04e-4985-8657-70ac1c6c6de1@nl-1.bnc-gt.co.uk:443?encryption=none&type=ws&security=tls&sni=a.nl-1.bnc-gt.co.uk&path=/ws/#🇳🇱 Нидерланды
+vless://16dbb3d3-b04e-4985-8657-70ac1c6c6de1@nl-1.bnc-gt.co.uk:443?encryption=none&type=grpc&security=tls&sni=a.nl-1.bnc-gt.co.uk&serviceName=grpc#🇳🇱 Нидерланды
+vless://16dbb3d3-b04e-4985-8657-70ac1c6c6de1@fi-1.bnc-gt.co.uk:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=b.fi-1.bnc-gt.co.uk&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&fp=qq#🇫🇮 Финляндия
+vless://16dbb3d3-b04e-4985-8657-70ac1c6c6de1@fi-1.bnc-gt.co.uk:443?encryption=none&type=ws&security=tls&sni=b.fi-1.bnc-gt.co.uk&path=/ws/#🇫🇮 Финляндия
+vless://16dbb3d3-b04e-4985-8657-70ac1c6c6de1@fi-1.bnc-gt.co.uk:443?encryption=none&type=grpc&security=tls&sni=b.fi-1.bnc-gt.co.uk&serviceName=grpc#🇫🇮 Финляндия
+vless://16dbb3d3-b04e-4985-8657-70ac1c6c6de1@fi-2.bnc-gt.co.uk:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=a.fi-2.bnc-gt.co.uk&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&fp=qq#🇫🇮 Финляндия
+vless://16dbb3d3-b04e-4985-8657-70ac1c6c6de1@fi-2.bnc-gt.co.uk:443?encryption=none&type=ws&security=tls&sni=a.fi-2.bnc-gt.co.uk&path=/ws/#🇫🇮 Финляндия
+vless://16dbb3d3-b04e-4985-8657-70ac1c6c6de1@fi-2.bnc-gt.co.uk:443?encryption=none&type=grpc&security=tls&sni=a.fi-2.bnc-gt.co.uk&serviceName=grpc#🇫🇮 Финляндия
+vless://16dbb3d3-b04e-4985-8657-70ac1c6c6de1@fi-3.bnc-gt.co.uk:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=a.fi-3.bnc-gt.co.uk&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&fp=qq#🇫🇮 Финляндия
+vless://16dbb3d3-b04e-4985-8657-70ac1c6c6de1@fi-3.bnc-gt.co.uk:443?encryption=none&type=ws&security=tls&sni=a.fi-3.bnc-gt.co.uk&path=/ws/#🇫🇮 Финляндия
+vless://16dbb3d3-b04e-4985-8657-70ac1c6c6de1@fi-3.bnc-gt.co.uk:443?encryption=none&type=grpc&security=tls&sni=a.fi-3.bnc-gt.co.uk&serviceName=grpc#🇫🇮 Финляндия
+vless://16dbb3d3-b04e-4985-8657-70ac1c6c6de1@es-1.bnc-gt.co.uk:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=a.es-1.bnc-gt.co.uk&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&fp=firefox#🇪🇸 Испания
+vless://16dbb3d3-b04e-4985-8657-70ac1c6c6de1@es-1.bnc-gt.co.uk:443?encryption=none&type=ws&security=tls&sni=a.es-1.bnc-gt.co.uk&path=/ws/#🇪🇸 Испания
+vless://16dbb3d3-b04e-4985-8657-70ac1c6c6de1@es-1.bnc-gt.co.uk:443?encryption=none&type=grpc&security=tls&sni=a.es-1.bnc-gt.co.uk&serviceName=grpc#🇪🇸 Испания
+vless://16dbb3d3-b04e-4985-8657-70ac1c6c6de1@cz-1.bnc-gt.co.uk:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=b.cz-1.bnc-gt.co.uk&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&fp=firefox#🇨🇿 Чехия
+vless://16dbb3d3-b04e-4985-8657-70ac1c6c6de1@cz-1.bnc-gt.co.uk:443?encryption=none&type=ws&security=tls&sni=b.cz-1.bnc-gt.co.uk&path=/ws/#🇨🇿 Чехия
+vless://16dbb3d3-b04e-4985-8657-70ac1c6c6de1@cz-1.bnc-gt.co.uk:443?encryption=none&type=grpc&security=tls&sni=b.cz-1.bnc-gt.co.uk&serviceName=grpc#🇨🇿 Чехия
+vless://16dbb3d3-b04e-4985-8657-70ac1c6c6de1@kz-1.bnc-gt.co.uk:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=a.kz-1.bnc-gt.co.uk&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&fp=firefox#🇰🇿 Казахстан
+vless://16dbb3d3-b04e-4985-8657-70ac1c6c6de1@kz-1.bnc-gt.co.uk:443?encryption=none&type=ws&security=tls&sni=a.kz-1.bnc-gt.co.uk&path=/ws/#🇰🇿 Казахстан
+vless://16dbb3d3-b04e-4985-8657-70ac1c6c6de1@kz-1.bnc-gt.co.uk:443?encryption=none&type=grpc&security=tls&sni=a.kz-1.bnc-gt.co.uk&serviceName=grpc#🇰🇿 Казахстан
+vless://16dbb3d3-b04e-4985-8657-70ac1c6c6de1@us-1.bnc-gt.co.uk:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=b.us-1.bnc-gt.co.uk&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&fp=firefox#🇺🇸 США
+vless://16dbb3d3-b04e-4985-8657-70ac1c6c6de1@us-1.bnc-gt.co.uk:443?encryption=none&type=ws&security=tls&sni=b.us-1.bnc-gt.co.uk&path=/ws/#🇺🇸 США
+vless://16dbb3d3-b04e-4985-8657-70ac1c6c6de1@us-1.bnc-gt.co.uk:443?encryption=none&type=grpc&security=tls&sni=b.us-1.bnc-gt.co.uk&serviceName=grpc#🇺🇸 США
+vless://16dbb3d3-b04e-4985-8657-70ac1c6c6de1@jp-1.bnc-gt.co.uk:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=b.jp-1.bnc-gt.co.uk&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&fp=firefox#🇯🇵 Япония
+vless://16dbb3d3-b04e-4985-8657-70ac1c6c6de1@jp-1.bnc-gt.co.uk:443?encryption=none&type=ws&security=tls&sni=b.jp-1.bnc-gt.co.uk&path=/ws/#🇯🇵 Япония
+vless://16dbb3d3-b04e-4985-8657-70ac1c6c6de1@jp-1.bnc-gt.co.uk:443?encryption=none&type=grpc&security=tls&sni=b.jp-1.bnc-gt.co.uk&serviceName=grpc#🇯🇵 Япония
