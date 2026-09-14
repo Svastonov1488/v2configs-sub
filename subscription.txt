@@ -2,7 +2,7 @@
 #profile-title: @V2keykonfig-sub
 #profile-update-interval: 1
 #support-url: t.me/KFCElmir
-#announce: Не работает? Обновите подписку // Автор @KFCElmir // обновлено  12 сентября 22:04 MSK
+#announce: Не работает? Обновите подписку // Автор @KFCElmir // обновлено  14 сентября 21:12 MSK
 
 vless://fcfeead1-aa05-468d-a4fa-edf1ccdc4f10@31.129.101.29:2083?flow=xtls-rprx-vision&encryption=none&security=reality&sni=beget-01.mansurchik.ru&fp=firefox&pbk=CB-IC727GSRagC6BQ8EDIlsrgs1nPac1WMGzSZ0CEjA&sid=3632241baac9d1a9&type=tcp&headerType=none#привет от руди.
 vless://f24c25fe-937d-414b-8180-d54c96220e71@g3.steptofsvo.com:10443?encryption=none&type=xhttp&security=none&path=/my-bucket&host=s3.storage.selcloud.ru&mode=stream-up&extra={"xmux":{"cMaxReuseTimes":0,"maxConcurrency":"2-4","maxConnections":0,"hKeepAlivePeriod":30,"hMaxRequestTimes":0,"hMaxReusableSecs":0},"xPaddingBytes":"100-1000"}#🇫🇮 H5807068357 | Hysteria
