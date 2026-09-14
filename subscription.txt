@@ -4,7 +4,7 @@
 #support-url: t.me/KFCElmir
 #announce: Не работает? Обновите подписку // Автор @KFCElmir // обновлено  14 сентября 21:12 MSK
 
-vless://fcfeead1-aa05-468d-a4fa-edf1ccdc4f10@31.129.101.29:2083?flow=xtls-rprx-vision&encryption=none&security=reality&sni=beget-01.mansurchik.ru&fp=firefox&pbk=CB-IC727GSRagC6BQ8EDIlsrgs1nPac1WMGzSZ0CEjA&sid=3632241baac9d1a9&type=tcp&headerType=none#привет от руди.
+vless://fcfeead1-aa05-468d-a4fa-edf1ccdc4f10@31.129.101.29:2083?flow=xtls-rprx-vision&encryption=none&security=reality&sni=beget-01.mansurchik.ru&fp=firefox&pbk=CB-IC727GSRagC6BQ8EDIlsrgs1nPac1WMGzSZ0CEjA&sid=3632241baac9d1a9&type=tcp&headerType=none#писька
 vless://f24c25fe-937d-414b-8180-d54c96220e71@g3.steptofsvo.com:10443?encryption=none&type=xhttp&security=none&path=/my-bucket&host=s3.storage.selcloud.ru&mode=stream-up&extra={"xmux":{"cMaxReuseTimes":0,"maxConcurrency":"2-4","maxConnections":0,"hKeepAlivePeriod":30,"hMaxRequestTimes":0,"hMaxReusableSecs":0},"xPaddingBytes":"100-1000"}#🇫🇮 H5807068357 | Hysteria
 vless://f24c25fe-937d-414b-8180-d54c96220e71@87.251.17.10:2053?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.samsung.com&pbk=f3Ooz7Yxw4QqQNxddxYG0zOewK8zullgKVTBZxR1a0Y&sid=cc981b746a300649&fp=chrome#🇫🇮 H5807068357 | Hysteria
 vless://f24c25fe-937d-414b-8180-d54c96220e71@87.251.17.11:2053?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.samsung.com&pbk=f3Ooz7Yxw4QqQNxddxYG0zOewK8zullgKVTBZxR1a0Y&sid=cc981b746a300649&fp=chrome#🇩🇪 H5807068357 | Быстрый
