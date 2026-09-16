@@ -2,7 +2,7 @@
 #profile-title: @V2keykonfig-sub
 #profile-update-interval: 1
 #support-url: t.me/KFCElmir
-#announce: Не работает? Обновите подписку // Автор @KFCElmir // обновлено  16 сентября 17:30 MSK
+#announce: Не работает? Обновите подписку // Автор @KFCElmir // обновлено 16 сентября 17:30 MSK
 
 vless://e737ad10-6165-45e4-a803-59dedded3c52@de1.telegram.land:443?encryption=none&type=xhttp&security=tls&sni=de1.telegram.land&path=/assets/build/_app/immutable/chunks/stream-one/&host=de1.telegram.land&mode=auto&extra={"xmux":{"cMaxReuseTimes":"200-300","maxConnections":1,"hKeepAlivePeriod":60,"hMaxRequestTimes":"200-300","hMaxReusableSecs":"600-900"},"noSSEHeader":false,"noGRPCHeader":false,"xPaddingBytes":"100-500","scMaxEachPostBytes":"393216-786432","scMinPostsIntervalMs":"30","scStreamUpServerSecs":"20-80"}#🇩🇪 Germany Private - 1 Gbit/s
 vless://e737ad10-6165-45e4-a803-59dedded3c52@de2.telegram.land:443?encryption=none&type=xhttp&security=tls&sni=de2.telegram.land&path=/assets/build/_app/immutable/chunks/stream-one/&host=de2.telegram.land&mode=auto&extra={"xmux":{"cMaxReuseTimes":"200-300","maxConnections":1,"hKeepAlivePeriod":60,"hMaxRequestTimes":"200-300","hMaxReusableSecs":"600-900"},"noSSEHeader":false,"noGRPCHeader":false,"xPaddingBytes":"100-500","scMaxEachPostBytes":"393216-786432","scMinPostsIntervalMs":"30","scStreamUpServerSecs":"20-80"}#🇩🇪 Germany Private - 1 Gbit/s
