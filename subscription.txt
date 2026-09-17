@@ -4,28 +4,24 @@
 #support-url: t.me/KFCElmir
 #announce: Не работает? Обновите подписку // Автор @KFCElmir // обновлено 17 сентября 20:15 MSK
 
-vless://0fda0fe7-01b6-43bb-bfe7-2ba7f683439f@de.extra-solutions.ru:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=de.extra-solutions.ru&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&sid=a1b2c3d4b5&fp=firefox#🇫🇲 ⚡️ WiFi — Автовыбор
-vless://0fda0fe7-01b6-43bb-bfe7-2ba7f683439f@de-shield.extra-solutions.ru:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=de-shield.extra-solutions.ru&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&sid=a1b2c3d4b5&fp=firefox#🇫🇲 ⚡️ WiFi — Автовыбор
-vless://0fda0fe7-01b6-43bb-bfe7-2ba7f683439f@fi.extra-solutions.ru:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=fi.extra-solutions.ru&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&sid=a1b2c3d4b5&fp=firefox#🇫🇲 ⚡️ WiFi — Автовыбор
-vless://0fda0fe7-01b6-43bb-bfe7-2ba7f683439f@fi-2.extra-solutions.ru:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=fi-2.extra-solutions.ru&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&sid=a1b2c3d4b5&fp=firefox#🇫🇲 ⚡️ WiFi — Автовыбор
-vless://0fda0fe7-01b6-43bb-bfe7-2ba7f683439f@fi-3.extra-solutions.ru:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=fi-3.extra-solutions.ru&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&sid=a1b2c3d4b5&fp=firefox#🇫🇲 ⚡️ WiFi — Автовыбор
-vless://0fda0fe7-01b6-43bb-bfe7-2ba7f683439f@fi-4.extra-solutions.ru:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=fi-4.extra-solutions.ru&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&sid=a1b2c3d4b5&fp=firefox#🇫🇲 ⚡️ WiFi — Автовыбор
-vless://0fda0fe7-01b6-43bb-bfe7-2ba7f683439f@nl-2.extra-solutions.ru:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=nl-2.extra-solutions.ru&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&sid=a1b2c3d4b5&fp=firefox#🇫🇲 ⚡️ WiFi — Автовыбор
-vless://0fda0fe7-01b6-43bb-bfe7-2ba7f683439f@nl-3.extra-solutions.ru:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=nl-3.extra-solutions.ru&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&sid=a1b2c3d4b5&fp=firefox#🇫🇲 ⚡️ WiFi — Автовыбор
-vless://0fda0fe7-01b6-43bb-bfe7-2ba7f683439f@ee.extra-solutions.ru:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ee.extra-solutions.ru&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&sid=a1b2c3d4b5&fp=firefox#🇫🇲 ⚡️ WiFi — Автовыбор
-vless://0fda0fe7-01b6-43bb-bfe7-2ba7f683439f@pl.extra-solutions.ru:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=pl.extra-solutions.ru&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&sid=a1b2c3d4b5&fp=firefox#🇫🇲 ⚡️ WiFi — Автовыбор
-vless://0fda0fe7-01b6-43bb-bfe7-2ba7f683439f@uk.extra-solutions.ru:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=uk.extra-solutions.ru&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&sid=a1b2c3d4b5&fp=firefox#🇫🇲 ⚡️ WiFi — Автовыбор
-vless://0fda0fe7-01b6-43bb-bfe7-2ba7f683439f@us.extra-solutions.ru:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=us.extra-solutions.ru&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&sid=a1b2c3d4b5&fp=firefox#🇺🇸 США | 🤖 Gemini
-vless://0fda0fe7-01b6-43bb-bfe7-2ba7f683439f@217.16.27.113:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=eh.vk.com&pbk=AiG06E-jizo9xtBbulKQvdQqhZfobZJBTQIKkaDjaiU&sid=a1b2c3d4e5&fp=chrome#🇪🇺 Обход — Автовыбор
-vless://0fda0fe7-01b6-43bb-bfe7-2ba7f683439f@217.16.27.113:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=AiG06E-jizo9xtBbulKQvdQqhZfobZJBTQIKkaDjaiU&sid=a1b2c3d4e5&fp=chrome#🇪🇺 Обход — Автовыбор
-vless://0fda0fe7-01b6-43bb-bfe7-2ba7f683439f@217.16.27.113:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&pbk=AiG06E-jizo9xtBbulKQvdQqhZfobZJBTQIKkaDjaiU&sid=a1b2c3d4e5&fp=chrome#🇪🇺 Обход — Автовыбор
-vless://0fda0fe7-01b6-43bb-bfe7-2ba7f683439f@217.16.27.113:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=max.ru&pbk=AiG06E-jizo9xtBbulKQvdQqhZfobZJBTQIKkaDjaiU&sid=a1b2c3d4e5&fp=firefox#🇪🇺 Обход — Автовыбор
-vless://0fda0fe7-01b6-43bb-bfe7-2ba7f683439f@metrics.gitpacket.pro:443?encryption=none&type=ws&security=tls&sni=metrics.gitpacket.pro&path=/v1/data/sync/&host=metrics.gitpacket.pro#🇪🇺 Обход — Автовыбор
-vless://0fda0fe7-01b6-43bb-bfe7-2ba7f683439f@188.225.62.104:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=eh.vk.com&pbk=AiG06E-jizo9xtBbulKQvdQqhZfobZJBTQIKkaDjaiU&sid=a1b2c3d4e5&fp=firefox#🇪🇺 Обход — Автовыбор
-vless://0fda0fe7-01b6-43bb-bfe7-2ba7f683439f@188.225.62.104:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&pbk=AiG06E-jizo9xtBbulKQvdQqhZfobZJBTQIKkaDjaiU&sid=a1b2c3d4e5&fp=firefox#🇪🇺 Обход — Автовыбор
-vless://0fda0fe7-01b6-43bb-bfe7-2ba7f683439f@188.225.62.104:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=AiG06E-jizo9xtBbulKQvdQqhZfobZJBTQIKkaDjaiU&sid=a1b2c3d4e5&fp=firefox#🇪🇺 Обход — Автовыбор
-vless://0fda0fe7-01b6-43bb-bfe7-2ba7f683439f@188.225.62.104:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=max.ru&pbk=AiG06E-jizo9xtBbulKQvdQqhZfobZJBTQIKkaDjaiU&sid=a1b2c3d4e5&fp=firefox#🇪🇺 Обход — Автовыбор
-vless://0fda0fe7-01b6-43bb-bfe7-2ba7f683439f@booardly.ru:443?encryption=none&type=ws&security=tls&sni=booardly.ru&path=/api/v2/media/live/relay.bin/&host=booardly.ru#🇪🇺 Обход — Автовыбор
+vless://345f2109-aa03-4c18-ab6c-3f58c1d74b10@selek1.gamma-kvn.com:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=selek1.gamma-kvn.com#🇷🇺 Лучший сeрвер МСК (1Гбит/c)
+vless://345f2109-aa03-4c18-ab6c-3f58c1d74b10@selek2.gamma-kvn.com:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=selek2.gamma-kvn.com#🇷🇺 Лучший сeрвер МСК (1Гбит/c)
+vless://345f2109-aa03-4c18-ab6c-3f58c1d74b10@selek3.gamma-kvn.com:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=selek3.gamma-kvn.com#🇷🇺 Лучший сeрвер МСК (1Гбит/c)
+vless://345f2109-aa03-4c18-ab6c-3f58c1d74b10@selek4.gamma-kvn.com:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=selek4.gamma-kvn.com#🇷🇺 Лучший сeрвер МСК (1Гбит/c)
+vless://345f2109-aa03-4c18-ab6c-3f58c1d74b10@selek5.gamma-kvn.com:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=selek5.gamma-kvn.com#🇷🇺 Лучший сeрвер МСК (1Гбит/c)
+vless://345f2109-aa03-4c18-ab6c-3f58c1d74b10@selek6.gamma-kvn.com:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=selek6.gamma-kvn.com#🇷🇺 Лучший сeрвер МСК (1Гбит/c)
+vless://345f2109-aa03-4c18-ab6c-3f58c1d74b10@at.gamma-kvn.com:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=at.gamma-kvn.com#🇦🇹 Австрия | Мощный
+vless://345f2109-aa03-4c18-ab6c-3f58c1d74b10@romania.gamma-kvn.com:2083?encryption=none&type=grpc&security=none&serviceName=mygrpc#🇷🇴 Румыния | Новый
+vless://345f2109-aa03-4c18-ab6c-3f58c1d74b10@cz.gamma-kvn.com:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=cz.gamma-kvn.com#🇨🇿 Чехия | Новый
+vless://345f2109-aa03-4c18-ab6c-3f58c1d74b10@cz2.gamma-kvn.com:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=cz2.gamma-kvn.com#🇨🇿 Чехия | Новый
+vless://345f2109-aa03-4c18-ab6c-3f58c1d74b10@nl-ded.gamma-kvn.com:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=nl-ded.gamma-kvn.com#🇳🇱 Нидерланды
+vless://345f2109-aa03-4c18-ab6c-3f58c1d74b10@nl-ded2.gamma-kvn.com:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=nl-ded2.gamma-kvn.com#🇳🇱 Нидерланды
+vless://345f2109-aa03-4c18-ab6c-3f58c1d74b10@nl-ded3.gamma-kvn.com:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=nl-ded3.gamma-kvn.com#🇳🇱 Нидерланды
+vless://345f2109-aa03-4c18-ab6c-3f58c1d74b10@ro.gamma-kvn.com:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=ro.gamma-kvn.com#🇷🇴 Румыния | Торренты
+vless://345f2109-aa03-4c18-ab6c-3f58c1d74b10@connect.gamma-kvn.com:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=connect.gamma-kvn.com#🇷🇺 LTE |  Обход Мощный
+vless://345f2109-aa03-4c18-ab6c-3f58c1d74b10@katering.coteite.pro:14443?encryption=none&type=ws&security=tls&sni=katering.coteite.pro&path=/ruws&host=katering.coteite.pro#🇳🇱 LTE | Только для моб. интернета
+vless://345f2109-aa03-4c18-ab6c-3f58c1d74b10@mws.gamma-kvn.com:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=mws.gamma-kvn.com#🇷🇺 LTE |  Обход
+vless://345f2109-aa03-4c18-ab6c-3f58c1d74b10@87.228.101.65:5001?encryption=none&type=grpc&security=reality&sni=cdnv-img.perekrestok.ru&pbk=tU3X98qd93T0sARHHQ0jkxUsBeBF73vJXy5M5moY5WY&sid=877f80d096&fp=firefox#🇷🇺 LTE |  Обход Лучший
 
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.182.21:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=nether.failspace.top&type=tcp#%F0%9F%87%A7%F0%9F%87%A9%20BD%20%40rudy_db
 vless://e580c6ba-f942-49d2-a224-bf07fbff9b96@50.7.38.243:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8HYqDHdQ1IuLPhAOENT70_j0prAi1PNkwlT6venYAEM&security=reality&sid=a78da1f7&sni=app1.betust.net&type=tcp#%F0%9F%87%A7%F0%9F%87%A9%20BD%20%40rudy_db
