@@ -2,27 +2,32 @@
 #profile-title: @V2keykonfig-sub
 #profile-update-interval: 1
 #support-url: t.me/KFCElmir
-#announce: Не работает? Обновите подписку // Автор @KFCElmir // обновлено 18 сентября 13:24 MSK
+#announce: Не работает? Обновите подписку // Автор @KFCElmir
+
 vless://e121b564-fade-44aa-ba15-aa46538efaca@176.108.242.55:5002?encryption=none&type=ws&security=tls&sni=lm.centermass.net&path=media.playback.v1.SessionGateway#🇱🇺 Люксембург
-
 vless://e121b564-fade-44aa-ba15-aa46538efaca@176.108.242.55:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=e7&fp=qq#🇱🇺 Люксембург
-
 vless://e121b564-fade-44aa-ba15-aa46538efaca@45.151.31.205:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=e7&fp=qq#🇬🇧 Лондон
-
 vless://e121b564-fade-44aa-ba15-aa46538efaca@201.34.128.128:6443?encryption=none&type=grpc&security=tls&sni=nld.centermass.net&serviceName=media.playback.v1.SessionGateway#🇳🇱 Нидерланды
-
 vless://e121b564-fade-44aa-ba15-aa46538efaca@213.171.26.186:5883?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=google.fr&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=e7&fp=firefox#🇫🇷 Франция
-
 vless://e121b564-fade-44aa-ba15-aa46538efaca@213.171.31.34:5002?encryption=none&type=ws&security=tls&sni=us.centermass.net&path=media.playback.v1.SessionGateway#🇺🇸 США
-
 vless://e121b564-fade-44aa-ba15-aa46538efaca@176.108.249.125:5001?encryption=none&type=grpc&security=tls&sni=rus.centermass.net&serviceName=media.playback.v1.SessionGateway#🇷🇺 Россия
-
 vless://e121b564-fade-44aa-ba15-aa46538efaca@188.225.33.173:5001?encryption=none&type=grpc&security=tls&sni=rus.centermass.net&serviceName=media.playback.v1.SessionGateway#🇷🇺 БС | Россия
-
 vless://e121b564-fade-44aa-ba15-aa46538efaca@node6.frost-api.com:5003?encryption=none&type=grpc&security=tls&sni=de1.frost-api.com&serviceName=media.playback.v1.SessionGateway#🇩🇪 БС | Германия
-
 vless://e121b564-fade-44aa-ba15-aa46538efaca@188.225.33.173:6001?encryption=none&type=grpc&security=tls&sni=fin.centermass.net&serviceName=media.playback.v1.SessionGateway#🇫🇮 БС - Финляндия
-
 vless://e121b564-fade-44aa-ba15-aa46538efaca@node3.frost-api.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=max.ru&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=e7&fp=chrome#⬜ Белый список - 2
-
 vless://e121b564-fade-44aa-ba15-aa46538efaca@node6.frost-api.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=e7&fp=firefox#⬜ Белый список - 1
+
+vless://9bbd487f-8f84-4ad7-b897-681c3f7d95dc@87.249.49.87:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=n4HzRVDwOdcZQ62HiKeVYn_A9FMv_Qm_LRRDZlbe3xQ&security=reality&sid=2cce6a63eaeb0b4f&sni=werwer.mervi.icu&type=tcp#%F0%9F%87%A7%F0%9F%87%A9%20BD%20%40rudy_db
+vless://026f58a9-b36e-4204-8f8d-54c5374163da@88.216.189.248:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=50bICHJt2ZO9lGfBQPlK6iHHBFwabUdakqXbseO4PC0&security=reality&sid=ee710b08&sni=app15.betust.net&type=tcp#%F0%9F%87%A7%F0%9F%87%A9%20BD%20%40rudy_db
+vless://4530ee2a-8294-48ec-a75c-6dbaf7336a85@46.224.125.89:443?encryption=none&fp=firefox&path=/hndr&pbk=Qm52KRyb3r94YeyOLDuTjSlMHVsPZCvO_DQZgsfrXhs&security=reality&sid=0ccbc7bb11e7ce55&sni=www.wikipedia.org&type=xhttp#%F0%9F%87%A7%F0%9F%87%A9%20BD%20%40rudy_db
+vless://0de1047d-fadd-4075-a08e-2223c5dadd0a@2.28.62.48:2900?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=t6ZD1BAopEpgPCz0KoCpZlahTg6otStYBgU6iJ-kOkc&security=reality&sid=171ef978859d26c6&sni=www.numpy.org&type=tcp#%F0%9F%87%A7%F0%9F%87%A9%20BD%20%40rudy_db
+vless://fefe22c4-a9aa-4b56-b23d-e42aab4bbac0@217.16.31.218:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&security=reality&sid=e7&sni=api-maps.yandex.ru&type=tcp#%F0%9F%87%A7%F0%9F%87%A9%20BD%20%40rudy_db
+vless://4f8a1d19-4d21-47f5-816e-a8f475fbd3f7@31.57.20.43:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=9J0h1tl0PRGXSKMLbu-_nsnoxhw3IHJ4jZTi2p_4i00&security=reality&sid=e2422c761ef3fb15&sni=edge6.multikons.shop&type=tcp#%F0%9F%87%A7%F0%9F%87%A9%20BD%20%40rudy_db
+vless://d9d0f208-d582-41d5-bb7b-742671402810@185.255.179.11:9443?encryption=none&fp=firefox&host=hub-de-05.hanvpn.cc&path=/de05-xhttp-8e47a/&security=tls&sni=hub-de-05.hanvpn.cc&type=xhttp#%F0%9F%87%A7%F0%9F%87%A9%20BD%20%40rudy_db
+vless://4f8a1d19-4d21-47f5-816e-a8f475fbd3f7@31.57.18.61:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=qPgl3LmKAKs5K-KzGNRJyr5KTO0KoRNN5m2PTCMscXU&security=reality&sid=22f534c530d37170&sni=srv-waw.kintecolas.com&type=tcp#%F0%9F%87%A7%F0%9F%87%A9%20BD%20%40rudy_db
+vless://026f58a9-b36e-4204-8f8d-54c5374163da@188.225.58.238:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=laDuxd6kFSPv2nWTy9LUjMGVRZM949R82alkZpMAqlk&security=reality&sid=e84029c5&sni=app5.betust.net&type=tcp#%F0%9F%87%A7%F0%9F%87%A9%20BD%20%40rudy_db
+vless://026f58a9-b36e-4204-8f8d-54c5374163da@188.225.42.6:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=sS3x_ZygtA9uZ5WaYm7pHjy0_lPNUUK7kOSLz0BNhCs&security=reality&sid=54ac91da&sni=app6.betust.net&type=tcp#%F0%9F%87%A7%F0%9F%87%A9%20BD%20%40rudy_db
+vless://d9d0f208-d582-41d5-bb7b-742671402810@185.255.179.11:9443?encryption=none&fp=firefox&host=hub-de-05.hanvpn.cc&path=/de05-ws-8e47a&security=tls&sni=hub-de-05.hanvpn.cc&type=ws#%F0%9F%87%A7%F0%9F%87%A9%20BD%20%40rudy_db
+vless://761efc94-d0c3-4c62-9235-104ff9b6cc48@185.200.241.35:52003?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Iu1pjP6sBtOMgzhyflXOb9Gb6GM4yzttdkqwXPnbtQ0&security=reality&sid=facabd93fe5b9f41&sni=www.microsoft.com&type=tcp#%F0%9F%87%A7%F0%9F%87%A9%20BD%20%40rudy_db
+vless://d9d0f208-d582-41d5-bb7b-742671402810@185.255.179.11:9443?encryption=none&fp=firefox&security=tls&serviceName=de05-grpc-8e47a&sni=hub-de-05.hanvpn.cc&type=grpc#%F0%9F%87%A7%F0%9F%87%A9%20BD%20%40rudy_db
+
