@@ -3,7 +3,9 @@
 #profile-update-interval: 1
 #support-url: t.me/KFCElmir
 #announce: Не работает? Обновите подписку // Автор @KFCElmir
-vless://c4e6cb77-ab66-42ef-be33-6b791fe604a0@de1.obxodvpn.us:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.apple.com&pbk=uOp9IW69PEn-toNzDs9IlCs8sdsMYm4XXjiPerrj41k&fp=chrome#🇩🇪 PQ VPN | Германия 1
-vless://c4e6cb77-ab66-42ef-be33-6b791fe604a0@de2.obxodvpn.us:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.apple.com&pbk=uOp9IW69PEn-toNzDs9IlCs8sdsMYm4XXjiPerrj41k&fp=chrome#🇩🇪 PQ VPN | Германия 2
-vless://c4e6cb77-ab66-42ef-be33-6b791fe604a0@al1.obxodvpn.us:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.apple.com&pbk=uOp9IW69PEn-toNzDs9IlCs8sdsMYm4XXjiPerrj41k&fp=chrome#🇦🇱 PQ VPN | Албания
-vless://c4e6cb77-ab66-42ef-be33-6b791fe604a0@ee.obxodvpn.us:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.apple.com&pbk=uOp9IW69PEn-toNzDs9IlCs8sdsMYm4XXjiPerrj41k&fp=chrome#🇪🇪 PQ VPN | Эстония
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.246.110:9830?encryption=none&type=grpc&security=reality&sni=dl.google.com&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=chrome&serviceName=grpc-tunnel#🇷🇺 Белые списки | RU
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.123.162.100:9880?encryption=none&type=grpc&security=reality&sni=dl.google.com&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=firefox&serviceName=grpc-tunnel#🇷🇺 Белые списки | RU
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.246.58:9881?encryption=none&type=grpc&security=reality&sni=dl.google.com&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&fp=chrome&serviceName=grpc-tunnel#🇷🇺 Белые списки | RU
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@213.171.25.29:9889?encryption=none&type=grpc&security=reality&sni=dl.google.com&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&sid=aabb&fp=firefox&serviceName=grpc-tunnel#🇷🇺 Белые списки | RU
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.246.73:9873?encryption=none&type=grpc&security=reality&sni=dl.google.com&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabbccdd&fp=chrome&serviceName=grpc-tunnel#🇷🇺 Белые списки | RU
+vless://c152e12a-7345-4f19-98a8-975636a6ee00@37.139.42.235:443?encryption=none&type=ws&security=tls&sni=katering.coteite.pro&path=/euws&host=katering.coteite.pro#🇷🇺 Белые списки | RU
