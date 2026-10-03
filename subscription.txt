@@ -4,6 +4,82 @@
 #support-url: t.me/KFCElmir
 #announce: Не работает? Обновите подписку // Автор @KFCElmir
 
+vless://218c121e-5196-4c6f-a2b0-125fca4a8f36@se.vk-proxy.com:27199?encryption=none&type=grpc&security=reality&sni=yk83plzd-fr16qn.se.vk-proxy.com&pbk=CPVSeYSQDWbTBHJchIGcHo10jLPp8MVB1zHGdEv0H1A&sid=68d50a614c39f35f&fp=firefox&serviceName=grpc#🇪🇺 Авто · Рекомендуемый
+vless://218c121e-5196-4c6f-a2b0-125fca4a8f36@bw52tqxr-vm73kd.de.vk-proxy.com:27541?encryption=none&type=grpc&security=reality&sni=bw52tqxr-vm73kd.de.vk-proxy.com&pbk=FOS5LzXQ8vIeV_QxcGV7dy3SdfUCzA5BrqFyFIga5z4&sid=1a70599379d06fe1&fp=firefox&serviceName=grpc#🇪🇺 Авто · Рекомендуемый
+vless://218c121e-5196-4c6f-a2b0-125fca4a8f36@lt.vk-proxy.com:12837?encryption=none&type=grpc&security=reality&sni=deepl.com&pbk=lK6sh9C8_n5I-EA-UhX5UFbs3uJyES193uM79crOnRE&sid=1ff4b8698ffdf662&fp=firefox&serviceName=grpc#🇪🇺 Авто · Рекомендуемый
+vless://218c121e-5196-4c6f-a2b0-125fca4a8f36@nl.vk-proxy.com:19272?encryption=none&type=grpc&security=reality&sni=n4wt6bcr-9kp2vm.nl.vk-proxy.com&pbk=1GXE0RVuZLPl40NgEdAI3ZJxITgzXphw_TlWJyDhBGA&sid=830c90596fa83a8a&fp=firefox&serviceName=grpc#🇪🇺 Авто · Рекомендуемый
+vless://218c121e-5196-4c6f-a2b0-125fca4a8f36@usa.vk-proxy.com:19375?encryption=none&type=grpc&security=reality&sni=zx81qm4d-h7r3ws.usa.vk-proxy.com&pbk=2JauwufHBlsq3LxJmbdipG2fzZ-SGIvSxEShJyvdrzU&sid=7316c3b083fcae70&fp=firefox&serviceName=grpc#🇪🇺 Авто · Рекомендуемый
+vless://218c121e-5196-4c6f-a2b0-125fca4a8f36@ru.vk-proxy.com:11590?encryption=none&type=grpc&security=reality&sni=t8k3xq9v-bz1mw74.ru.s1.vk-proxy.com&pbk=zJ0h-twnresMrA8uJ0QGuJJB-qsLPZK4fgq62Clz1E0&sid=863cf8743dc880e1&fp=firefox&serviceName=grpc#🇪🇺 Авто · Рекомендуемый
+vless://218c121e-5196-4c6f-a2b0-125fca4a8f36@se.vk-proxy.com:27199?encryption=none&type=grpc&security=reality&sni=yk83plzd-fr16qn.se.vk-proxy.com&pbk=CPVSeYSQDWbTBHJchIGcHo10jLPp8MVB1zHGdEv0H1A&sid=68d50a614c39f35f&fp=firefox&serviceName=grpc#🇪🇺 Авто · Мобильная сеть
+vless://218c121e-5196-4c6f-a2b0-125fca4a8f36@bw52tqxr-vm73kd.de.vk-proxy.com:27541?encryption=none&type=grpc&security=reality&sni=bw52tqxr-vm73kd.de.vk-proxy.com&pbk=FOS5LzXQ8vIeV_QxcGV7dy3SdfUCzA5BrqFyFIga5z4&sid=1a70599379d06fe1&fp=firefox&serviceName=grpc#🇪🇺 Авто · Мобильная сеть
+vless://218c121e-5196-4c6f-a2b0-125fca4a8f36@lt.vk-proxy.com:12837?encryption=none&type=grpc&security=reality&sni=deepl.com&pbk=lK6sh9C8_n5I-EA-UhX5UFbs3uJyES193uM79crOnRE&sid=1ff4b8698ffdf662&fp=firefox&serviceName=grpc#🇪🇺 Авто · Мобильная сеть
+vless://218c121e-5196-4c6f-a2b0-125fca4a8f36@nl.vk-proxy.com:19272?encryption=none&type=grpc&security=reality&sni=n4wt6bcr-9kp2vm.nl.vk-proxy.com&pbk=1GXE0RVuZLPl40NgEdAI3ZJxITgzXphw_TlWJyDhBGA&sid=830c90596fa83a8a&fp=firefox&serviceName=grpc#🇪🇺 Авто · Мобильная сеть
+vless://218c121e-5196-4c6f-a2b0-125fca4a8f36@usa.vk-proxy.com:19375?encryption=none&type=grpc&security=reality&sni=zx81qm4d-h7r3ws.usa.vk-proxy.com&pbk=2JauwufHBlsq3LxJmbdipG2fzZ-SGIvSxEShJyvdrzU&sid=7316c3b083fcae70&fp=firefox&serviceName=grpc#🇪🇺 Авто · Мобильная сеть
+vless://218c121e-5196-4c6f-a2b0-125fca4a8f36@icmp.balalayka-proxy.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=yk83plzd-fr16qn.se.vk-proxy.com&pbk=jNXe7N-_v4TM7e9yb53R2Mxibaz8NLTWLjAj8bdbzmY&sid=09a8592794dd225c&fp=firefox#🇪🇺 Авто · Мобильная сеть
+vless://218c121e-5196-4c6f-a2b0-125fca4a8f36@icmp.balalayka-proxy.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=bw52tqxr-vm73kd.de.vk-proxy.com&pbk=jNXe7N-_v4TM7e9yb53R2Mxibaz8NLTWLjAj8bdbzmY&sid=09a8592794dd225c&fp=firefox#🇪🇺 Авто · Мобильная сеть
+vless://218c121e-5196-4c6f-a2b0-125fca4a8f36@icmp.balalayka-proxy.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=n4wt6bcr-9kp2vm.nl.vk-proxy.com&pbk=jNXe7N-_v4TM7e9yb53R2Mxibaz8NLTWLjAj8bdbzmY&sid=09a8592794dd225c&fp=firefox#🇪🇺 Авто · Мобильная сеть
+vless://218c121e-5196-4c6f-a2b0-125fca4a8f36@icmp.balalayka-proxy.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=p9fb3ktn-2vc8qx.lt.vk-proxy.com&pbk=jNXe7N-_v4TM7e9yb53R2Mxibaz8NLTWLjAj8bdbzmY&sid=09a8592794dd225c&fp=firefox#🇪🇺 Авто · Мобильная сеть
+vless://218c121e-5196-4c6f-a2b0-125fca4a8f36@icmp.balalayka-proxy.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=zx81qm4d-h7r3ws.usa.vk-proxy.com&pbk=jNXe7N-_v4TM7e9yb53R2Mxibaz8NLTWLjAj8bdbzmY&sid=09a8592794dd225c&fp=firefox#🇪🇺 Авто · Мобильная сеть
+vless://218c121e-5196-4c6f-a2b0-125fca4a8f36@lt.vk-proxy.com:12837?encryption=none&type=grpc&security=reality&sni=deepl.com&pbk=lK6sh9C8_n5I-EA-UhX5UFbs3uJyES193uM79crOnRE&sid=1ff4b8698ffdf662&fp=firefox&serviceName=grpc#🇱🇹  Литва • Шяуляй
+vless://218c121e-5196-4c6f-a2b0-125fca4a8f36@usa.vk-proxy.com:19375?encryption=none&type=grpc&security=reality&sni=zx81qm4d-h7r3ws.usa.vk-proxy.com&pbk=2JauwufHBlsq3LxJmbdipG2fzZ-SGIvSxEShJyvdrzU&sid=7316c3b083fcae70&fp=firefox&serviceName=grpc#🇺🇸 США • Чикаго
+vless://218c121e-5196-4c6f-a2b0-125fca4a8f36@bw52tqxr-vm73kd.de.vk-proxy.com:27541?encryption=none&type=grpc&security=reality&sni=bw52tqxr-vm73kd.de.vk-proxy.com&pbk=FOS5LzXQ8vIeV_QxcGV7dy3SdfUCzA5BrqFyFIga5z4&sid=1a70599379d06fe1&fp=firefox&serviceName=grpc#🇩🇪 Германия • Франкфурт-на-Майне
+vless://218c121e-5196-4c6f-a2b0-125fca4a8f36@se.vk-proxy.com:27199?encryption=none&type=grpc&security=reality&sni=yk83plzd-fr16qn.se.vk-proxy.com&pbk=CPVSeYSQDWbTBHJchIGcHo10jLPp8MVB1zHGdEv0H1A&sid=68d50a614c39f35f&fp=firefox&serviceName=grpc#🇸🇪 Швеция • Стокгольм
+vless://218c121e-5196-4c6f-a2b0-125fca4a8f36@nl.vk-proxy.com:19272?encryption=none&type=grpc&security=reality&sni=n4wt6bcr-9kp2vm.nl.vk-proxy.com&pbk=1GXE0RVuZLPl40NgEdAI3ZJxITgzXphw_TlWJyDhBGA&sid=830c90596fa83a8a&fp=firefox&serviceName=grpc#🇳🇱 Нидерланды • Амстердам
+
+vless://218c121e-5196-4c6f-a2b0-125fca4a8f36@ru.vk-proxy.com:11590?encryption=none&type=grpc&security=reality&sni=t8k3xq9v-bz1mw74.ru.s1.vk-proxy.com&pbk=zJ0h-twnresMrA8uJ0QGuJJB-qsLPZK4fgq62Clz1E0&sid=863cf8743dc880e1&fp=firefox&serviceName=grpc#🇷🇺 Россия • Москва
+
+vless://218c121e-5196-4c6f-a2b0-125fca4a8f36@nl-in.vk-proxy.com:19272?encryption=none&type=grpc&security=reality&sni=nl-s1.vk-proxy.com&pbk=1GXE0RVuZLPl40NgEdAI3ZJxITgzXphw_TlWJyDhBGA&sid=830c90596fa83a8a&fp=firefox&serviceName=grpc#🇳🇱 Нидерланды • Амстердам • Резервный
+
+vless://218c121e-5196-4c6f-a2b0-125fca4a8f36@icmp.balalayka-proxy.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=yk83plzd-fr16qn.se.vk-proxy.com&pbk=jNXe7N-_v4TM7e9yb53R2Mxibaz8NLTWLjAj8bdbzmY&sid=09a8592794dd225c&fp=firefox#🇸🇪  Для мобильного интернета №1
+
+vless://218c121e-5196-4c6f-a2b0-125fca4a8f36@icmp.balalayka-proxy.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=bw52tqxr-vm73kd.de.vk-proxy.com&pbk=jNXe7N-_v4TM7e9yb53R2Mxibaz8NLTWLjAj8bdbzmY&sid=09a8592794dd225c&fp=firefox#🇩🇪  Для мобильного интернета №2
+
+vless://218c121e-5196-4c6f-a2b0-125fca4a8f36@icmp.balalayka-proxy.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=n4wt6bcr-9kp2vm.nl.vk-proxy.com&pbk=jNXe7N-_v4TM7e9yb53R2Mxibaz8NLTWLjAj8bdbzmY&sid=09a8592794dd225c&fp=firefox#🇳🇱  Для мобильного интернета №3
+
+vless://218c121e-5196-4c6f-a2b0-125fca4a8f36@icmp.balalayka-proxy.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=p9fb3ktn-2vc8qx.lt.vk-proxy.com&pbk=jNXe7N-_v4TM7e9yb53R2Mxibaz8NLTWLjAj8bdbzmY&sid=09a8592794dd225c&fp=firefox#🇱🇹  Для мобильного интернета №4
+
+vless://218c121e-5196-4c6f-a2b0-125fca4a8f36@icmp.balalayka-proxy.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=zx81qm4d-h7r3ws.usa.vk-proxy.com&pbk=jNXe7N-_v4TM7e9yb53R2Mxibaz8NLTWLjAj8bdbzmY&sid=09a8592794dd225c&fp=firefox#🇺🇸  Для мобильного интернета №5
+
+hy2://218c121e-5196-4c6f-a2b0-125fca4a8f36@yk83plzd-fr16qn.se.vk-proxy.com:9443?sni=yk83plzd-fr16qn.se.vk-proxy.com&alpn=h3#🇪🇺 Авто · Рекомендуемый
+
+hy2://218c121e-5196-4c6f-a2b0-125fca4a8f36@bw52tqxr-vm73kd.de.vk-proxy.com:9443?sni=bw52tqxr-vm73kd.de.vk-proxy.com&alpn=h3#🇪🇺 Авто · Рекомендуемый
+
+hy2://218c121e-5196-4c6f-a2b0-125fca4a8f36@p9fb3ktn-2vc8qx.lt.vk-proxy.com:9443?sni=p9fb3ktn-2vc8qx.lt.vk-proxy.com&alpn=h3#🇪🇺 Авто · Рекомендуемый
+
+hy2://218c121e-5196-4c6f-a2b0-125fca4a8f36@n4wt6bcr-9kp2vm.nl.vk-proxy.com:9443?sni=n4wt6bcr-9kp2vm.nl.vk-proxy.com&alpn=h3#🇪🇺 Авто · Рекомендуемый
+
+hy2://218c121e-5196-4c6f-a2b0-125fca4a8f36@t8k3xq9v-bz1mw74.ru.s1.vk-proxy.com:9443?sni=t8k3xq9v-bz1mw74.ru.s1.vk-proxy.com&alpn=h3#🇪🇺 Авто · Рекомендуемый
+
+hy2://218c121e-5196-4c6f-a2b0-125fca4a8f36@yk83plzd-fr16qn.se.vk-proxy.com:9443?sni=yk83plzd-fr16qn.se.vk-proxy.com&alpn=h3#🇪🇺 Авто · Турбо
+
+hy2://218c121e-5196-4c6f-a2b0-125fca4a8f36@bw52tqxr-vm73kd.de.vk-proxy.com:9443?sni=bw52tqxr-vm73kd.de.vk-proxy.com&alpn=h3#🇪🇺 Авто · Турбо
+
+hy2://218c121e-5196-4c6f-a2b0-125fca4a8f36@p9fb3ktn-2vc8qx.lt.vk-proxy.com:9443?sni=p9fb3ktn-2vc8qx.lt.vk-proxy.com&alpn=h3#🇪🇺 Авто · Турбо
+
+hy2://218c121e-5196-4c6f-a2b0-125fca4a8f36@n4wt6bcr-9kp2vm.nl.vk-proxy.com:9443?sni=n4wt6bcr-9kp2vm.nl.vk-proxy.com&alpn=h3#🇪🇺 Авто · Турбо
+
+hy2://218c121e-5196-4c6f-a2b0-125fca4a8f36@t8k3xq9v-bz1mw74.ru.s1.vk-proxy.com:9443?sni=t8k3xq9v-bz1mw74.ru.s1.vk-proxy.com&alpn=h3#🇪🇺 Авто · Турбо
+
+hy2://218c121e-5196-4c6f-a2b0-125fca4a8f36@yk83plzd-fr16qn.se.vk-proxy.com:9443?sni=yk83plzd-fr16qn.se.vk-proxy.com&alpn=h3#🇪🇺 Авто · Мобильная сеть
+
+hy2://218c121e-5196-4c6f-a2b0-125fca4a8f36@bw52tqxr-vm73kd.de.vk-proxy.com:9443?sni=bw52tqxr-vm73kd.de.vk-proxy.com&alpn=h3#🇪🇺 Авто · Мобильная сеть
+
+hy2://218c121e-5196-4c6f-a2b0-125fca4a8f36@p9fb3ktn-2vc8qx.lt.vk-proxy.com:9443?sni=p9fb3ktn-2vc8qx.lt.vk-proxy.com&alpn=h3#🇪🇺 Авто · Мобильная сеть
+
+hy2://218c121e-5196-4c6f-a2b0-125fca4a8f36@n4wt6bcr-9kp2vm.nl.vk-proxy.com:9443?sni=n4wt6bcr-9kp2vm.nl.vk-proxy.com&alpn=h3#🇪🇺 Авто · Мобильная сеть
+
+hy2://218c121e-5196-4c6f-a2b0-125fca4a8f36@p9fb3ktn-2vc8qx.lt.vk-proxy.com:9443?sni=p9fb3ktn-2vc8qx.lt.vk-proxy.com&alpn=h3#🇱🇹  Литва • Шяуляй
+
+hy2://218c121e-5196-4c6f-a2b0-125fca4a8f36@bw52tqxr-vm73kd.de.vk-proxy.com:9443?sni=bw52tqxr-vm73kd.de.vk-proxy.com&alpn=h3#🇩🇪 Германия • Франкфурт-на-Майне
+
+hy2://218c121e-5196-4c6f-a2b0-125fca4a8f36@yk83plzd-fr16qn.se.vk-proxy.com:9443?sni=yk83plzd-fr16qn.se.vk-proxy.com&alpn=h3#🇸🇪 Швеция • Стокгольм
+
+hy2://218c121e-5196-4c6f-a2b0-125fca4a8f36@n4wt6bcr-9kp2vm.nl.vk-proxy.com:9443?sni=n4wt6bcr-9kp2vm.nl.vk-proxy.com&alpn=h3#🇳🇱 Нидерланды • Амстердам
+
+hy2://218c121e-5196-4c6f-a2b0-125fca4a8f36@t8k3xq9v-bz1mw74.ru.s1.vk-proxy.com:9443?sni=t8k3xq9v-bz1mw74.ru.s1.vk-proxy.com&alpn=h3#🇷🇺 Россия • Москва
+
+
+
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.180:2053?encryption=none&security=tls&sni=dismissaltree.net&fp=random&type=xhttp&path=%2Fapi%2Fv1%2Fupload&host=dismissaltree.net&mode=auto#🇷🇺 RU @rudy_db
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.180:2053?encryption=none&security=tls&sni=dismissaltree.net&fp=random&type=xhttp&path=%2Fapi%2Fv1%2Fupload&mode=auto#🇷🇺 RU @rudy_db
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.180:2053?encryption=none&security=tls&sni=dismissaltree.net&type=xhttp&path=%2Fapi%2Fv1%2Fupload&host=dismissaltree.net&mode=auto&extra=%7B%22host%22%3A%22%22%2C%22path%22%3A%22%22%2C%22mode%22%3A%22%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingObfsMode%22%3Afalse%2C%22xPaddingKey%22%3A%22%22%2C%22xPaddingHeader%22%3A%22%22%2C%22xPaddingPlacement%22%3A%22%22%2C%22xPaddingMethod%22%3A%22%22%2C%22uplinkHTTPMethod%22%3A%22%22%2C%22sessionIDPlacement%22%3A%22%22%2C%22sessionIDKey%22%3A%22%22%2C%22sessionIDTable%22%3A%22%22%2C%22sessionIDLength%22%3A%220%22%2C%22seqPlacement%22%3A%22%22%2C%22seqKey%22%3A%22%22%2C%22uplinkDataPlacement%22%3A%22%22%2C%22uplinkDataKey%22%3A%22%22%2C%22uplinkChunkSize%22%3A%220%22%2C%22noGRPCHeader%22%3Afalse%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22scMaxBufferedPosts%22%3A0%2C%22scStreamUpServerSecs%22%3A%220%22%2C%22serverMaxHeaderBytes%22%3A0%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A%220%22%2C%22cMaxReuseTimes%22%3A%2264-128%22%2C%22hMaxRequestTimes%22%3A%220%22%2C%22hMaxReusableSecs%22%3A%220%22%2C%22hKeepAlivePeriod%22%3A0%7D%7D#🇷🇺 RU @rudy_db
