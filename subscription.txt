@@ -2,7 +2,7 @@
 #profile-title: V2Ключи 
 #profile-update-interval: 1
 #support-url: t.me/KFCElmir
-#announce: Не работает? Обновите подписку // Автор @KFCElmir // обновлено: 09.10.2026 19:26 | конфигов: 73
+#announce: Не работает? Обновите проверяйте Пинг кнопкой🔃 и выберите с самым маленьким пингом // Автор @KFCElmir // обновлено: 09.10.2026 19:26 | конфигов: 73
 vless://267b3a79-81f2-42ac-a409-c23b05b6329d@94.141.162.88:8447?encryption=none&type=grpc&security=reality&sni=srv88.bbobr.win&pbk=spxYV3CT-gcnk7ABCozoIyrxKu8n-sl36RL6yDh-8xg&sid=feb22e978bd90e60&fp=firefox&serviceName=api.v2.9d87796f29#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%231
 vless://267b3a79-81f2-42ac-a409-c23b05b6329d@23.134.124.54:443?encryption=none&type=grpc&security=reality&sni=us7.bbobr.win&pbk=NOjnh1ZRSxW5LqakQctsf4Sx0xu1rFNtzce-v-MpwwE&sid=a59ba372400e4779&fp=firefox&serviceName=api.v2.us7f28b1d6#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%D0%A1%D0%A8%D0%90%20%232
 vless://267b3a79-81f2-42ac-a409-c23b05b6329d@94.141.162.88:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=srv88.bbobr.win&pbk=K9e4gQJX1KLEmvsKOp9CtJ-o-L4EIpYOPTg5Spo9MWs&sid=65ceab72c331f307&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%233
