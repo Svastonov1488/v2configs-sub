@@ -1,5 +1,5 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=2524608000
-#profile-title: V2Ключи 2.0
+#profile-title: V2Ключи 
 #profile-update-interval: 1
 #support-url: t.me/KFCElmir
 #announce: Не работает? Обновите подписку // Автор @KFCElmir // обновлено: 09.10.2026 19:26 | конфигов: 73
