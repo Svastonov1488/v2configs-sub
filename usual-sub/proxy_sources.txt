@@ -1,4 +1,5 @@
-https://raw.githubusercontent.com/mukhtarsss/Vpn-sub/main/m7khtarsss67
-https://raw.githubusercontent.com/vessel-web/subs_pars/refs/heads/main/subs_bl.txt
-https://raw.githubusercontent.com/gooseteam-hackers/freevpn-cracks/refs/heads/main/subscription_auto.txt
 https://raw.githubusercontent.com/gooseteam-hackers/freevpn-cracks/refs/heads/main/subscription_default.txt
+https://raw.githubusercontent.com/VansFenix/vpnparser/refs/heads/main/all.txt
+https://raw.githubusercontent.com/VansFenix/vpnparser/main/white.txt
+https://bobrrvpn.neocities.org/whitelist.txt
+https://bobrrvpn.neocities.org/blacklist.txt
